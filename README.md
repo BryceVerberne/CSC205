@@ -26,7 +26,7 @@ CSC205AB is a course focused on object-oriented programming (OOP), data structur
 
 The repository contains a collection of programs and projects developed during the course, which demonstrate the application of various concepts learned in the class. Each folder in the repository corresponds to a specific topic or assignment.
 
-## Prerequisites
+## Usage
 
 To run and modify the code in this repository, you will need the following software:
 
@@ -35,6 +35,6 @@ To run and modify the code in this repository, you will need the following softw
 
 ## License
 
-This project is open source and available for anyone to use or modify. Please provide appropriate attribution to the original author when reusing or modifying any code from this repository.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Feel free to explore the repository and use the code as a reference for your own projects or learning!
+**Good luck and happy coding!**
