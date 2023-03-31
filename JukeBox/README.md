@@ -4,14 +4,23 @@ A Java program that manages a virtual jukebox to store, manipulate, and display 
 
 ## Description
 
-The JukeBox program is designed to simulate a virtual jukebox that stores songs (represented as `Record` objects) in an ArrayList. It provides various functionalities like adding songs to the jukebox, removing songs, searching for specific songs, and picking a random song. The program consists of four classes: `Jukebox`, `JukeInterface`, `Record`, and `JukeTester`.
+JukeBox is a Java program that simulates a classic jukebox, allowing users to manage and interact with a collection of songs, represented as records. Users can add, remove, and search for records within the collection, as well as retrieve a random record for an element of surprise. The program is designed with an intuitive interface and provides a fun way to explore and manipulate a custom playlist.
+
+## Features
+- Add a record to the jukebox
+- Add a record to a specific slot in the jukebox
+- Remove a record from the jukebox
+- Check if the jukebox contains a specific record
+- Find the slot containing a specific record
+- Generate a random record from the jukebox
+- Display the jukebox content as a string
 
 ## Classes
 
-1. `Jukebox.java`: The `Jukebox` class is the core class that represents a virtual jukebox. It implements the `JukeInterface` and provides methods for managing songs (records) in an ArrayList, such as adding, removing, searching, and randomly selecting songs.
-2. `JukeInterface.java`: The `JukeInterface` is an interface that defines the methods a jukebox must implement to manage records. This includes methods for inserting records, removing records, checking if a record exists, finding a record's slot, and randomly selecting a record.
-3. `Record.java`: The `Record` class represents a song, containing information about the song's title and artist. It provides methods for comparing records and converting a record to a string representation for display purposes.
-4. `JukeTester.java`: The `JukeTester` class is a tester class that demonstrates the usage of the `Jukebox`, `JukeInterface`, and `Record` classes. It creates a jukebox, inserts songs, searches for specific songs, and removes songs from the jukebox, showing the results of each operation.
+- **JukeBox**: The `Jukebox.java` class implements the `JukeInterface` and contains the main logic for manipulating and displaying the list of songs.
+- **JukeInterface**: The `JukeInterface.java` is an interface that defines the methods a jukebox must implement to manage records.
+- **Record**: The `Record.java` class represents a song, containing information about the song's title and artist.
+- **JukeTester**: The `JukeTester.java` class is a tester class that demonstrates the usage of the `Jukebox`, `JukeInterface`, and `Record` classes.
 
 ## Usage 
 
