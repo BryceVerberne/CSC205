@@ -8,8 +8,8 @@ This Java program consists of two classes that can translate English text to the
 
 ## Classes
 
-1. `Saurian.java`: The main class that handles the translation between English and Saurian.
-2. `SaurianDriver.java`: The test class that demonstrates the functionality of the Saurian class.
+- `Saurian.java`: The main class that handles the translation between English and Saurian.
+- `SaurianDriver.java`: The test class that demonstrates the functionality of the Saurian class.
 
 ## Usage
 
