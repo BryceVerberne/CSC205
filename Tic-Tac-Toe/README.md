@@ -8,8 +8,8 @@ This Java implementation of the classic game [Tic-Tac-Toe](https://en.wikipedia.
 
 ## Classes
 
-- `TicTacToe.java`: The main class that extends the Board abstract class and handles the game logic.
-- `Board.java`: An abstract class that defines the board structure and provides a method to print the board.
+- **TicTacToe**: `TicTacToe.java` is the main class that extends the Board abstract class and handles the game logic.
+- **Board**: `Board.java` is an abstract class that defines the board structure and provides a method to print the board.
 
 ## Usage
 
