@@ -1,37 +1,36 @@
 # CSC 205AB - OOP & Data Structures
 
-This repository contains programs and projects from the CSC205AB course: Object-Oriented Programming and Data Structures, taken at Paradise Valley Community College with Professor Frisby.
+Welcome to my CSC205 repository! This repository contains projects from my CSC205AB course: Object-Oriented Programming and Data Structures, taken at Paradise Valley Community College with Professor Frisby.
 
 ## Course Description
 
-CSC205AB is a course focused on object-oriented programming (OOP), data structures, algorithms, and graphical user interfaces (GUI) using Java. Throughout the course, students gain experience in implementing, analyzing, and utilizing various data structures such as linked lists, hash maps, array lists, queues, and more.
+CSC 205AB is a Java course that focuses on object-oriented programming and data structures. Students gain hands-on experience implementing and analyzing OOP features such as inheritance, generics, and exceptions. Additionally, they learn to use popular data structures including linked lists, hash maps, array lists, and queues.
 
-## Concepts Covered
+## Repository Contents
 
+This repository contains a collection of programs completed during my CSC 205AB course. It demonstrates the application of various concepts learned in the class, including, but not limited to, the following:
 - Object-Oriented Programming (OOP)
+  - Inheritance
+  - Exceptions
+  - Recursion
+  - Generics
 - Data Structures
   - Linked Lists
   - Hash Maps
   - Array Lists
-  - Queues
-  - Stacks
-  - Trees
-  - Graphs
-- Algorithms
-  - Sorting
-  - Searching
-- Graphical User Interfaces (GUI)
+- GUI (Graphical User Interfaces)
+- And more
 
-## Projects & Programs
-
-The repository contains a collection of programs and projects developed during the course, which demonstrate the application of various concepts learned in the class. Each folder in the repository corresponds to a specific topic or assignment.
-
-## Usage
+## Getting Started
 
 To run and modify the code in this repository, you will need the following software:
 
 - Java Development Kit (JDK)
 - An Integrated Development Environment (IDE) such as IntelliJ IDEA, Eclipse, or NetBeans
+
+## Disclaimer
+
+These projects are provided for educational purposes only. While the code is free to use, modify, or distribute, please do not use it to directly copy or plagiarize assignments for your coursework. Instead, use the material as a reference to help you understand the implementation object-oriented programming and data structures.
 
 ## License
 
