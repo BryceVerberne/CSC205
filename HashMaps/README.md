@@ -10,9 +10,9 @@ This Java program reads a list of names from a `.txt` file, hashes each name usi
 
 The program consists of two Java classes and a .txt file:
 
-1. `Main.java`: Contains the main method to read names from the `.txt` file, hash them, store them in a HashMap, and perform lookups.
-2. `Hashes.java`: Contains the methods for hashing a string and getting the hashed string.
-3. `names.txt`: A list of names to be hashed and stored in the HashMap.
+- `Main.java`: Contains the main method to read names from the `.txt` file, hash them, store them in a HashMap, and perform lookups.
+- `Hashes.java`: Contains the methods for hashing a string and getting the hashed string.
+- `names.txt`: A list of names to be hashed and stored in the HashMap.
 
 ## Usage
 
