@@ -4,11 +4,7 @@ A multi-player Tic-Tac-Toe game implemented in Java, where two players can play 
 
 ## Description
 
-This Java program allows two players to play a game of Tic-Tac-Toe on the command line. It sets up a Tic-Tac-Toe board and takes user input for each player's move. The game continues until a winner is found or the game ends in a draw.
-
-Programmers: Bryce Verberne, Jordan Haddad, Josh Tribble, and Khang Nguyen
-
-Date: 06/10/2022
+This Java implementation of the classic game [Tic-Tac-Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) provides a simple and intuitive command-line interface for two players to engage in a friendly match. The program sets up a 3x3 Tic-Tac-Toe board and takes input from both players, who alternate marking their symbols (X or O) on the board. The game features error handling for invalid inputs and checks for a win or draw after each move. The game continues until one player wins by aligning three of their symbols in a row, column, or diagonal, or the board is filled, resulting in a draw. After each game, players can choose to start a new match.
 
 ## Classes
 
