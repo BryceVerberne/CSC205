@@ -1,6 +1,6 @@
 # HashMaps
 
-A Java program that hashes names using the MD5 algorithm and stores them in a HashMap. It demonstrates reading from a file, hashing strings, and working with HashMaps.
+A Java program that hashes names using the MD5 algorithm and stores them in a HashMap.
 
 ## Description
 
