@@ -7,16 +7,14 @@ A Java program that enables the creation and manipulation of infinitely long int
 The Infinite Integer program provides a means to handle integers of any length, surpassing the limits imposed by built-in data types. By utilizing a doubly linked list, this program allows for the representation and manipulation of extremely large numbers. Key operations such as addition and comparison of these infinite integers are implemented in the code.
 
 ## Features
-The Infinite Integer program provides a wide range of functionality for working with extremely large integers. Key features include:
+The Infinite Integer program offers versatile functionality for handling large integers, with features such as:
 
-- **Representation of Infinitely Large Integers**: The program allows users to create and manipulate integers of any length, surpassing the limitations of built-in data types.
-- **Addition**: Users can perform addition of two infinite integers, resulting in a new infinite integer object that represents the sum.
-- **Subtraction**: The program supports subtraction of two infinite integers, yielding a new infinite integer object representing the difference.
-- **Multiplication**: Users can perform multiplication between two infinite integers, resulting in a new infinite integer object that represents the product.
-- **Comparison**: The program allows users to compare two infinite integers, returning the result as an integer (-1, 0, or 1) to indicate whether the first number is less than, equal to, or greater than the second number.
-- **Conversion**: Users can convert infinite integers to different data types, such as strings and primitive integers (when possible), for easy integration with other programs and libraries.
-- **Flexible Input**: The program accepts input in the form of strings, making it simple for users to enter large numbers without worrying about formatting.
-- **Extensibility**: The program's design enables developers to easily add more features and operations, such as division or modular arithmetic, if needed.
+- Representation of unlimited-size integers
+- Addition, subtraction, and multiplication
+- Comparison of two infinite integers
+- Conversion to different data types
+- Flexible input as strings
+- Extensibility for adding more features
 
 ## Classes
 
