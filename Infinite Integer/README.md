@@ -19,7 +19,7 @@ The Infinite Integer program offers versatile functionality for handling large i
 ## Classes
 
 - **InfiniteInt**: The `InfiniteInt.java` class is responsible for creating an infinitely long integer, by using the doubly linked list data structure.
-- **DLList**: The `DLList.java` class is a generic implementation of a doubly linked list. It provides basic operations for managing the list, such as adding elements, removing elements, and traversing the list.
+- **DLList**: The `DLList.java` class is a generic implementation of a doubly linked list. It serves as the foundation for the `InfiniteInt` class, enabling the storage and manipulation of infinitely long integers.
 - **PartialTesterInfiniteInt**: The `PartialTesterInfiniteInt.java` is a test class that demonstrates the functionality of the InfiniteInt class.
 
 ## Usage
