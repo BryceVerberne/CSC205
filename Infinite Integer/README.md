@@ -7,7 +7,6 @@ A Java program that enables the creation and manipulation of infinitely long int
 The Infinite Integer program provides a means to handle integers of any length, surpassing the limits imposed by built-in data types. By utilizing a doubly linked list, this program allows for the representation and manipulation of extremely large numbers. Key operations such as addition and comparison of these infinite integers are implemented in the code.
 
 ## Features
-The Infinite Integer program offers versatile functionality for handling large integers, with features such as:
 
 - Representation of unlimited-size integers
 - Addition, subtraction, and multiplication
@@ -19,7 +18,7 @@ The Infinite Integer program offers versatile functionality for handling large i
 ## Classes
 
 - **InfiniteInt**: The `InfiniteInt.java` class is responsible for creating an infinitely long integer, by using the doubly linked list data structure.
-- **DLList**: The `DLList.java` class is a generic implementation of a doubly linked list. It serves as the foundation for the `InfiniteInt` class, enabling the storage and manipulation of infinitely long integers.
+- **DLList**: The `DLList.java` class serves as the foundation for the `InfiniteInt` class, enabling the storage and manipulation of infinitely long integers.
 - **PartialTesterInfiniteInt**: The `PartialTesterInfiniteInt.java` is a test class that demonstrates the functionality of the InfiniteInt class.
 
 ## Usage
