@@ -5,7 +5,7 @@
 
 
 
-public class Assignment5Recursion {
+public class Recursion {
 
     // Simple formula used to calculate the squares
     public static int puzzleFormula(int n) {
