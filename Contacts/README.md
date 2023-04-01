@@ -21,6 +21,8 @@ This program offers an easy way to create a contact list by allowing users to in
 
 ## Example
 
+In this example, the user inputs three contacts with their names and phone numbers. The program then displays the contact list, showing each contact's name and phone number.
+
 ```plaintext
 Person 1
 Enter name:
@@ -53,5 +55,3 @@ Phone number: 987-654-3210
 Name: Mike Johnson
 Phone number: 555-666-7777
 ```
-
-In this example, the user inputs three contacts with their names and phone numbers. The program then displays the contact list, showing each contact's name and phone number.
