@@ -18,6 +18,9 @@ This Java implementation of the classic game [Tic-Tac-Toe](https://en.wikipedia.
 3. Follow the on-screen prompts to play the game with another player.
 
 ## Example
+
+In the example, I demonstrate a sample Tic-Tac-Toe game between two players, where Player X wins by forming a diagonal line with their symbols.
+
 ```plaintext
 Welcome to Multi-Player Tic-Tac-Toe!!!
 --------------------------------------
@@ -67,4 +70,3 @@ Congratulations! X's have won! Thanks for playing.
 Do you want to do the greatest rematch of all time?
 no
 ```
-In the example, I demonstrate a sample Tic-Tac-Toe game between two players, where Player X wins by forming a diagonal line with their symbols.
