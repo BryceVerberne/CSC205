@@ -4,23 +4,23 @@ A Java program that demonstrates the use of recursion, loops, and a direct formu
 
 ## Description
 
-This program, composed of three classes, calculates the number of squares in a pattern using a formula, loop, and recursion. The console-based and graphical outputs are provided by `Assignment5RecursionConsoleDriver` and `Assignment5RecursionGraphicDriver` classes, respectively.
+This program, composed of three classes, calculates the number of squares in a pattern using a formula, loop, and recursion. The console-based and graphical outputs are provided by `RecursionConsoleDriver` and `RecursionGraphicDriver` classes, respectively.
 
 ## Classes
 
-- **Assignment5Recursion**: The `Assignment5Recursion.java` class contains the methods for solving the problem using the formula, loop, and recursion techniques.
-- **Assignment5RecursionConsoleDriver**: The `Assignment5RecursionConsoleDriver.java` class is a console-based driver that calls the methods in the Assignment5Recursion class and displays the results.
-- **Assignment5RecursionGraphicDriver**: The `Assignment5RecursionGraphicDriver.java` class is a graphical driver that creates a JFrame with input fields and a panel to display the pattern.
+- **Recursion**: The `Recursion.java` class contains the methods for solving the problem using the formula, loop, and recursion techniques.
+- **RecursionConsoleDriver**: The `RecursionConsoleDriver.java` class is a console-based driver that calls the methods in the `Recursion` class and displays the results.
+- **RecursionGraphicDriver**: The `RecursionGraphicDriver.java` class is a graphical driver that creates a JFrame with input fields and a panel to display the pattern.
 
 ## Usage
 
-1. Compile the Java Classes (e.g., `javac Assignment5Recursion.java Assignment5RecursionConsoleDriver.java Assignment5RecursionGraphicDriver.java`).
-2. Run `Assignment5RecursionConsoleDriver.java` to see console results for various n values using formula, loop, and recursion methods.
-3. Run `Assignment5RecursionGraphicDriver.java`, input n in "Iteration" field, click "Graph" to display pattern and method results.
+1. Compile the Java Classes (e.g., `javac Recursion.java RecursionConsoleDriver.java RecursionGraphicDriver.java`).
+2. Run `RecursionConsoleDriver.java` to see console results for various n values using formula, loop, and recursion methods.
+3. Run `RecursionGraphicDriver.java`, input n in "Iteration" field, click "Graph" to display pattern and method results.
 
 ## Example
 
-When running the Assignment5RecursionConsoleDriver, you will see the following output:
+When running the RecursionConsoleDriver, you will see the following output:
 
 ```plaintext
 puzzleFormula(1) returns: 5
