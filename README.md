@@ -30,7 +30,7 @@ To run and modify the code in this repository, you will need the following softw
 
 ## Disclaimer
 
-These projects are provided for educational purposes only. While the code is free to use, modify, or distribute, please do not use it to directly copy or plagiarize assignments for your coursework. Instead, use the material as a reference to help you understand the implementation object-oriented programming and data structures.
+These projects are provided for educational purposes only. While the code is free to share and use for non-commercial purposes, please do not use it to directly copy or plagiarize assignments for your coursework. Instead, use the material as a reference to help you understand the implementation object-oriented programming and data structures.
 
 ## License
 
